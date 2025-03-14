@@ -1,0 +1,2 @@
+# CLOVER-ACER-F5-572G-595M-Clover-LEGACY
+Acer F15 F5-573G-595M clover Mojave Legacy
