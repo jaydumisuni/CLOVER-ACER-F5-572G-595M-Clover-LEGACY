@@ -1,5 +1,9 @@
-# Acer Aspire V 15 V5-591G [From macOS Sierra 10.12.6 to Big Sur 11 - Windows 10]
- ## Clover EFI for Acer Aspire V 15 V5-591G - macOS Big Sur 11
+# Acer Acer F15 F5-573G-595M 
+ ## Clover EFI for Acer Acer F15 F5-573G-595M clover Ram: 12GB Core i5 Storage: 1TB HRDD Dedicated Memory: 2GB Nvidia Integrated Memory: 1GB running mojave legacy boot can't remember much but most did work
+
+ 
+ with this efi in relase you can boot Mojave
+ if need any other guide to create from scratch you can refere to this 
  ## Insanelymac GUIDE: https://www.insanelymac.com/forum/topic/345573-guide-acer-aspire-v-15-v5-591g-from-macos-sierra-10126-to-big-sur-11-windows-10
  <p align=center>
     <img src="https://www.insanelymac.com/uploads/monthly_2020_11/410405936_AspireV5-591G.png.16ecabb3ae2af876860f34c05d34a956.png">
