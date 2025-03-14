@@ -1,5 +1,6 @@
 # Acer Acer F15 F5-573G-595M 
  ## Clover EFI for Acer Acer F15 F5-573G-595M clover Ram: 12GB Core i5 Storage: 1TB HRDD Dedicated Memory: 2GB Nvidia Integrated Memory: 1GB running mojave legacy boot can't remember much but most did work
+ works with Mojave installer made MBR-Manual-Method make your installer with this
 
  
  with this efi in relase you can boot Mojave
